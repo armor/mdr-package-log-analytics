@@ -5,7 +5,7 @@
   "description": "Contains modules for deploying and managing Azure Log Analytics infrastructure.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:quantum-sec/package-log-analytics.git"
+    "url": "git@github.com:armor/mdr-package-log-analytics.git"
   },
   "author": "Quantum Security Pte. Ltd.",
   "license": "SEE LICENSE IN LICENSE",
